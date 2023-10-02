@@ -3,8 +3,9 @@
 This repository contains a Terraform configuration for provisioning an AWS Real Production Networking. The configuration is split across multiple files for better organization and separation of concerns.
 
 ## Prerequisites
-- Terraform installed (version 1.0.0 or newer)
-- AWS CLI installed and configured with necessary credentials
+- Terraform v1.5.7 or newer.
+- AWS CLI configured with the necessary credentials.
+- Appropriate IAM permissions to create and manage the specified resources.
 
 ## Structure
 
